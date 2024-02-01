@@ -2,7 +2,19 @@
 
 ## Overview
 
-Wordana is a web3-based application that combines word guessing and blockchain technology. Users can enjoy a word guessing game to win WRD tokens. The game offers both single-player and multiplayer modes.
+Wordana is a wordle game that is built on the Litelink blockchain network. The game makes use of the API 3 Quantum Random Number Generator protocol to whip up a collection of random words. Players then take their shot at guessing these words within a specified number of attempts. The best part? Thanks to Litelink's gasless technology seamlessly integrated into Wordana, you get to experience all the wordle fun without the hassle of gas fees.
+
+### The Problem
+
+Many gamers and game developers avoid blockchain-based games due to high gas fees. Can you really blame them? Paying real money for each gaming transaction is a real buzzkill.
+
+### The Solution
+
+Imagine having endless gaming sessions, maybe even sharing the fun with friends from afar. What if you could compete with friends across the miles, all on the blockchain, and guess what? No need to worry about those pesky gas fees. That's where Wordana comes in, seamlessly integrating Litelink's gasless technology to make all this gaming magic a reality.
+
+
+
+
 
 Smart contract repo: (https://github.com/Havorahq/wordana-smart-contract)
 
